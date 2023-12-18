@@ -1,0 +1,68 @@
+[
+    {
+      "id": 15379,
+      "nombre": "Hernan",
+      "apellido": "Maldonado",
+      "email": "hmaldonado@kinetecoinc.com"
+    },
+    {
+      "id": 15419,
+      "nombre": "Carlos",
+      "apellido": "Zambrano",
+      "email": "czambrano@kinetecoinc.com"
+    },
+    {
+      "id": 15420,
+      "nombre": "Elena",
+      "apellido": "Domínguez",
+      "email": "edomínguez@kinetecoinc.com"
+    },
+    {
+      "id": 51630,
+      "nombre": "Luis Enrique",
+      "apellido": "Vera",
+      "email": "lvera@kinetecoinc.com"
+    },
+    {
+      "id": 15421,
+      "nombre": "Luis",
+      "apellido": "Hernández",
+      "email": "lhernández@kinetecoinc.com"
+    },
+    {
+      "id": 46556,
+      "nombre": "Teresa",
+      "apellido": "Benítez",
+      "email": "tbenítez@kinetecoinc.com"
+    },
+    {
+      "id": 46555,
+      "nombre": "Sonia",
+      "apellido": "Blanco",
+      "email": "sblanco@kinetecoinc.com"
+    },
+    {
+      "id": 46559,
+      "nombre": "Ernesto",
+      "apellido": "García",
+      "email": "egarcía@kinetecoinc.com"
+    },
+    {
+      "id": 15428,
+      "nombre": "Rodrigo",
+      "apellido": "Torres",
+      "email": "rtorres@kinetecoinc.com"
+    },
+    {
+      "id": 15429,
+      "nombre": "Roberto",
+      "apellido": "Molina",
+      "email": "rmolina@kinetecoinc.com"
+    },
+    {
+      "id": 47130,
+      "nombre": "Nuria",
+      "apellido": "Flores",
+      "email": "nflores@kinetecoinc.com"
+    }
+]
