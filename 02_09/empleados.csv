@@ -1,0 +1,232 @@
+Nombre;Estado_Civil;Edad;Experiencia;Salario;Departamento
+Alexandro;Soltero(a);22;3;2423;Publicidad
+Felipa;Soltero(a);26;5;2639;Comercial
+Daniel;Casado(a);35;10;3122;Comercial
+John;Casado(a);35;13;3431;Servicios al cliente
+Ruperta;Casado(a);54;18;3962;Producto
+Amaya;Divorciado(a);22;3;2450;Comercial
+Francisca;Soltero(a);;4;2564;IT
+Selena;Casado(a);24;6;2709;Contabilidad
+Ximena;Soltero(a);58;24;4532;Legal
+David;Divorciado(a);20;1;1977;Recursos Humanos
+Max;Divorciado(a);39;8;2953;Ventas
+Selena;Casado(a);24;6;2709;Contabilidad
+Paula;Divorciado(a);55;12;3306;Producto
+Tim;Divorciado(a);22;4;2518;Recursos Humanos
+Andrew;Divorciado(a);;10;3194;Producto
+Gloria;Casado(a);31;11;3267;Servicios al cliente
+Ema;Soltero(a);;15;3635;Producto
+Isaura;Divorciado(a);35;8;2973;Legal
+Jesse;Soltero(a);34;11;3257;Publicidad
+Nathan;Soltero(a);35;9;3040;Servicios al cliente
+Ronald;Soltero(a);23;5;2695;Servicios al cliente
+Clarisa;Divorciado(a);38;6;2764;Servicios al cliente
+Randy;Soltero(a);;24;4529;Publicidad
+Steven;Casado(a);19;1;2051;Legal
+Justin;Casado(a);;18;3907;Servicios al cliente
+Alexander;Soltero(a);;5;2656;Legal
+Manola;Soltero(a);40;9;3023;IT
+Isabela;Casado(a);66;12;3344;Contabilidad
+Herberto;Casado(a);28;3;2391;Servicios al cliente
+Lilia;Divorciado(a);42;16;3796;Ventas
+Carmelita;Casado(a);;5;2676;Reclutamiento
+Agustina;Casado(a);21;3;2371;Servicios al cliente
+Anselma;Casado(a);18;0;1887;Contabilidad
+Gaspar;Casado(a);34;7;2894;Servicios al cliente
+Lucho;Divorciado(a);40;3;2385;Finanzas
+Maricela;Divorciado(a);27;6;2751;Contabilidad
+Julie;Soltero(a);;6;2709;Legal
+Maristela;Soltero(a);38;11;3256;Publicidad
+Gabriela;Soltero(a);19;1;1985;Producto
+Lisandro;Casado(a);;9;3027;Ventas
+Eduardo;Soltero(a);;10;3128;Comercial
+Mirta;Casado(a);;15;3614;Servicios al cliente
+Danilo;Soltero(a);;25;4611;Contabilidad
+Manuelita;Casado(a);18;0;1672;Ventas
+Gabriela;Soltero(a);37;13;3409;IT
+Maricruz;Soltero(a);21;2;2272;Ventas
+Olegario;Divorciado(a);49;5;2626;Recursos Humanos
+Berta;Casado(a);65;27;4888;IT
+Abigail;Soltero(a);;15;3656;Producto
+Albino;Casado(a);21;2;2207;Comercial
+Albert;Casado(a);28;4;2527;Recursos Humanos
+Florina;Divorciado(a);55;33;5462;IT
+Soledad;Divorciado(a);21;3;2477;IT
+Eva;Casado(a);22;4;2565;Finanzas
+Miriam;Soltero(a);38;1;1999;Contabilidad
+Fortunata;Divorciado(a);45;16;3709;Publicidad
+Lucio;Soltero(a);54;12;3317;Recursos Humanos
+Lucio;Soltero(a);54;12;3317;Recursos Humanos
+Geraldo;Divorciado(a);;30;5034;Finanzas
+Luisa;Soltero(a);29;5;2648;Contabilidad
+Regina;Divorciado(a);19;1;2033;Comercial
+Dionisio;Casado(a);47;20;4168;Comercial
+Joshua;Casado(a);26;4;2520;Comercial
+Lola;Soltero(a);32;3;2487;Servicios al cliente
+Eliseo;Casado(a);36;7;2900;Ventas
+Loreto;Soltero(a);21;3;2432;Producto
+Olivia;Casado(a);26;5;2655;Ventas
+Alfonso;Casado(a);32;10;3134;Publicidad
+Carlota;Soltero(a);25;3;2317;Recursos Humanos
+Evelia;Soltero(a);;1;2095;Finanzas
+Marcos;Casado(a);;2;2222;Publicidad
+Eligia;Soltero(a);24;3;2453;Ventas
+Amada;Divorciado(a);30;3;2443;Producto
+Jeremy;Casado(a);22;4;2512;Ventas
+Amado;Soltero(a);29;2;2221;Legal
+Alfonso;Casado(a);;24;4545;Servicios al cliente
+Cirino;Divorciado(a);28;4;2581;Comercial
+Joaquina;Casado(a);27;1;2007;Comercial
+Herberto;Soltero(a);33;12;3364;Servicios al cliente
+Nilda;Casado(a);;27;4889;Ventas
+Susanita;Casado(a);23;2;2228;Legal
+Melisa;Soltero(a);24;3;2362;Legal
+Amy;Casado(a);29;3;2426;Legal
+Yolanda;Divorciado(a);46;1;1939;Contabilidad
+Paz;Casado(a);26;1;1925;Legal
+Paulino;Soltero(a);59;15;3641;Legal
+Debora;Casado(a);;1;1929;Servicios al cliente
+Teodora;Casado(a);71;32;5332;Comercial
+Eliana;Casado(a);23;5;2670;Publicidad
+Herminia;Soltero(a);34;9;3010;Publicidad
+Francisco;Casado(a);34;8;2920;Reclutamiento
+Pastora;Divorciado(a);28;5;2631;Comercial
+Carlos;Soltero(a);;8;2919;Publicidad
+Jose;Soltero(a);21;3;2300;Servicios al cliente
+Eva;Soltero(a);33;8;2931;Comercial
+Erasmo;Divorciado(a);37;2;2148;Publicidad
+Eliana;Casado(a);28;6;2779;Comercial
+Adalberto;Casado(a);21;2;2249;Legal
+Jacobo;Soltero(a);;6;2774;Legal
+Eulalia;Casado(a);38;8;2929;Legal
+Luisa;Soltero(a);47;9;3020;Legal
+Ana;Soltero(a);54;8;2953;Contabilidad
+Aureliano;Soltero(a);22;4;2524;Publicidad
+Samanta;Casado(a);20;2;2298;IT
+Ana;Divorciado(a);47;5;2625;Contabilidad
+Amada;Soltero(a);21;2;2274;Producto
+Marcelo;Soltero(a);70;34;5571;Legal
+Carmelo;Casado(a);29;2;2250;Comercial
+Consuelo;Divorciado(a);24;1;2091;Contabilidad
+Teo;Casado(a);23;5;2643;Publicidad
+Leandro;Divorciado(a);21;3;2322;Contabilidad
+Elena;Casado(a);;5;2686;Producto
+Fanny;Casado(a);32;7;2843;IT
+Dionisia;Soltero(a);32;8;2936;Producto
+Joaquina;Casado(a);54;25;4657;Producto
+Leire;Casado(a);42;2;2237;Recursos Humanos
+Luisa;Casado(a);;25;4652;Recursos Humanos
+Lorenzo;Soltero(a);24;3;2335;Recursos Humanos
+Jose;Casado(a);;23;4500;Servicios al cliente
+Hilario;Casado(a);45;10;3166;Contabilidad
+Susanita;Soltero(a);33;4;2581;Recursos Humanos
+Flora;Soltero(a);20;2;2256;Producto
+Celso;Casado(a);47;15;3646;Recursos Humanos
+Luz;Divorciado(a);29;4;2592;Servicios al cliente
+Adelia;Casado(a);25;3;2477;Contabilidad
+Francisca;Divorciado(a);23;2;2270;Legal
+Santiago;Soltero(a);19;1;1920;Legal
+Fulgencio;Casado(a);37;10;3117;Finanzas
+Clarisa;Casado(a);56;8;2972;IT
+Paz;Soltero(a);;10;3115;Publicidad
+Loreto;Soltero(a);22;3;2492;Producto
+Clara;Soltero(a);24;3;2347;Comercial
+Isidora;Soltero(a);19;1;2059;IT
+Eliana;Divorciado(a);18;0;1727;Ventas
+Soraya;Divorciado(a);19;1;2037;Servicios al cliente
+Reyes;Soltero(a);27;4;2508;Producto
+Iker;Divorciado(a);39;11;3287;Legal
+Eliana;Casado(a);36;9;3036;Ventas
+Herminia;Soltero(a);42;23;4404;Finanzas
+Ernesto;Divorciado(a);51;11;3233;Publicidad
+Brunilda;Casado(a);22;2;2213;Reclutamiento
+Estela;Casado(a);55;5;2675;Servicios al cliente
+Lucia;Divorciado(a);40;10;3187;Comercial
+Tomasa;Soltero(a);;21;4214;Producto
+Pastora;Casado(a);51;8;2995;Reclutamiento
+Amancio;Casado(a);46;9;3054;Recursos Humanos
+Hailey;Casado(a);30;4;2532;Producto
+Pili;Casado(a);;30;5116;Publicidad
+Otilia;Casado(a);;30;5166;Publicidad
+Eva;Casado(a);44;12;3373;Comercial
+Elisabet;Divorciado(a);40;6;2796;Finanzas
+Lino;Casado(a);26;5;2662;Legal
+Juan;Divorciado(a);37;3;2325;Servicios al cliente
+Adela;Divorciado(a);21;3;2467;Contabilidad
+Juanita;Soltero(a);;4;2522;Legal
+Maristela;Divorciado(a);;18;3901;Ventas
+Eugenio;Casado(a);45;18;3908;Ventas
+Sofia;Soltero(a);;26;4716;Publicidad
+Olga;Soltero(a);;11;3209;Producto
+Daisy;Casado(a);61;8;2902;Ventas
+James;Soltero(a);;13;3433;IT
+Marta;Soltero(a);51;5;2651;Comercial
+Elodia;Divorciado(a);21;3;2462;IT
+Emilio;Divorciado(a);18;0;1872;IT
+Patricio;Soltero(a);;3;2492;Producto
+Kevin;Soltero(a);50;8;2985;Finanzas
+Ana;Divorciado(a);;17;3847;Producto
+Petrona;Soltero(a);;32;5358;Comercial
+Daniel;Casado(a);;9;3059;Contabilidad
+Tyler;Soltero(a);;29;5085;Finanzas
+Belen;Soltero(a);29;4;2596;Contabilidad
+Samanta;Casado(a);31;12;3393;Finanzas
+Richard;Divorciado(a);34;7;2804;Servicios al cliente
+Vilma;Casado(a);;2;2209;Legal
+Aaron;Soltero(a);45;9;3093;Publicidad
+Douglas;Casado(a);40;6;2735;Legal
+Sean;Soltero(a);36;2;2114;Ventas
+Celia;Casado(a);32;11;3260;Comercial
+Angela;Soltero(a);19;1;2100;IT
+Griselda;Casado(a);19;1;1930;Legal
+Olga;Divorciado(a);32;4;2573;Legal
+Rafaela;Casado(a);44;11;3292;Finanzas
+Corey;Casado(a);58;32;5360;Producto
+Randall;Soltero(a);;11;3300;Servicios al cliente
+Otilia;Divorciado(a);42;8;2990;Servicios al cliente
+Yesica;Casado(a);;3;2320;Producto
+Shaun;Casado(a);28;6;2796;Comercial
+Eric;Divorciado(a);34;6;2745;Ventas
+Marisol;Casado(a);;17;3839;Contabilidad
+Daniel;Casado(a);18;0;1875;Publicidad
+Brian;Casado(a);;30;5189;Comercial
+Eva;Divorciado(a);;16;3797;Servicios al cliente
+Katherine;Soltero(a);;24;4516;Servicios al cliente
+James;Casado(a);46;20;4154;Recursos Humanos
+Gala;Divorciado(a);40;1;1946;IT
+Elena;Casado(a);24;2;2101;Legal
+Luna;Soltero(a);35;6;2772;Recursos Humanos
+Jennifer;Soltero(a);22;1;1930;Servicios al cliente
+Rosenda;Casado(a);30;4;2596;IT
+Eli;Soltero(a);;14;3507;IT
+Odalis;Soltero(a);31;2;2262;Servicios al cliente
+Felipe;Soltero(a);27;3;2456;Publicidad
+Piedad;Soltero(a);32;3;2316;Comercial
+Jose;Casado(a);30;4;2513;Comercial
+Ariel;Casado(a);27;2;2100;Legal
+Luis;Divorciado(a);51;25;4681;Comercial
+Isidoro;Divorciado(a);;24;4544;Legal
+Lucho;Casado(a);22;4;2507;Ventas
+Yesica;Divorciado(a);19;1;1935;Comercial
+Victoriano;Casado(a);20;2;2110;Servicios al cliente
+Onofre;Soltero(a);18;1;2067;IT
+Duilio;Soltero(a);;8;2986;Finanzas
+Michael;Soltero(a);35;13;3420;Legal
+Carina;Casado(a);29;1;1904;Producto
+Irene;Casado(a);;2;2169;Recursos Humanos
+Judith;Divorciado(a);;16;3769;Ventas
+Alicia;Casado(a);24;4;2507;Servicios al cliente
+Maite;Casado(a);;35;5614;IT
+Lupita;Casado(a);44;14;3532;Producto
+Soraya;Soltero(a);38;4;2546;Legal
+Eric;Casado(a);19;1;1964;Legal
+Robert;Soltero(a);33;11;3267;Recursos Humanos
+Kevin;Divorciado(a);;20;4166;Finanzas
+Amaro;Casado(a);;24;4510;Comercial
+Hernando;Divorciado(a);29;4;2510;IT
+Vito;Divorciado(a);22;4;2530;Producto
+Jose;Casado(a);30;6;2760;Servicios al cliente
+Marcelo;Divorciado(a);44;15;3616;IT
+Eric;Casado(a);25;7;2880;Recursos Humanos
+Marc;Casado(a);24;2;2172;Producto
+Leandro;Casado(a);37;11;3245;Finanzas
